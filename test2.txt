@@ -1,2 +1,1 @@
-hello git
- hello get
+这是分支2的内容
